@@ -32,4 +32,3 @@ Este proyecto utiliza Python y las siguientes bibliotecas:
 - `matplotlib`: Para visualizar los resultados de los grafos coloreados.
 - `numpy`: Para realizar cálculos numéricos.
 - `random`: Para la generación de secuencias aleatorias en el recocido simulado.
-- 
