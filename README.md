@@ -1,4 +1,5 @@
 # Coloreado de Grafos con Recocido Simulado
+`EL código se puede correr desde Google Colab`
 
 Este proyecto resuelve el problema de coloreado de grafos utilizando el algoritmo de **recocido simulado**. El objetivo es encontrar una asignación de colores para los vértices de un grafo de manera que no haya dos vértices adyacentes con el mismo color, mediante una técnica de optimización probabilística.
 
